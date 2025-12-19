@@ -4,7 +4,7 @@ This repository contains a custom **Python Middleware Script** to integrate **Za
 
 ## 📸 Proof of Concept
 
-> _Note: Upload screenshot of the Telegram notification here._ > ![Telegram Notification Example](https://via.placeholder.com/600x400?text=Upload+Your+Screenshot+Here)
+> _Note: Telegram notification here._ > ![Telegram Notification Example](proof.png)
 
 ## 🛠️ Features
 
@@ -87,6 +87,7 @@ Lihat Event: {TRIGGER.URL}
 
 ## 🚀 Usage
 
-Create a dummy trigger (e.g., High CPU Load or SYN Flood simulation).
-Wait for the Zabbix "PROBLEM" status.
-You will receive an instant notification on Telegram.
+- Create a dummy trigger (e.g., High CPU Load or SYN Flood simulation).
+- Wait for the Zabbix "PROBLEM" status.
+- You will receive an instant notification on Telegram.
+
