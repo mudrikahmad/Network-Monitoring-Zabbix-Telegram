@@ -67,7 +67,9 @@ Go to Configuration > Actions > Trigger actions > Create action. In the Operatio
 
 Subject:
 
+```text
 Problem: {TRIGGER.NAME} on {HOST.NAME}
+```
 
 Message:
 
@@ -90,4 +92,5 @@ Lihat Event: {TRIGGER.URL}
 - Create a dummy trigger (e.g., High CPU Load or SYN Flood simulation).
 - Wait for the Zabbix "PROBLEM" status.
 - You will receive an instant notification on Telegram.
+
 
